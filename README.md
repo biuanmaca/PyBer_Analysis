@@ -41,7 +41,16 @@ cities:  Urban, Suburban, and Rural.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/91292960/139605921-ebe2a436-6879-4f3c-afde-cd6877e192a6.png)
 
-We can see from this chart that total urban fares out-paced total suburban fares which in turn out paced 
-total rural fares for the entirety of the date-range.  
-
 ## Summary
+We can see from the last chart that total urban fares out-paced total suburban fares which in turn out paced 
+total rural fares for the entirety of the date-range.  There are three suggestions for resolving this disparity.
+
+1. Focus on getting more rural and, to a lesser degree, suburban drivers.  The average fares are higher for 
+rural and suburban rides compared to urban rides and therefore we can get more revenue with lesser additions of
+drivers.
+2. Similarly, focus on getting more rural and suburban cities represented (and therefore more drivers).  The 
+While the result of more drivers is the same as #1, the focus is less on adding drivers in cities we already
+service, and more on servicing more cities.
+3. Accept the disparity.  The disparity may be caused simply by supply and demand.  There are less drivers in
+rural areas because there is less population and therefore less rides.  The adding of more drivers will suffer
+diminishing returns steeply and make the drivers we currently have upset because of lost fares.
